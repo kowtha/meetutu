@@ -9,5 +9,5 @@ This is web application.In this application any teacher and student can register
  6. Better to open it in Mobilephone because Screen-2 has whatsapp API which are only work in mobile phones.
  7. I hosted it on Normal Webhosting server (Link :- "https://kowtha.000webhostapp.com/Meetutu/index.html")
  
- "Websockets Work in progress because of SOMLDER, DOM libraries dependency issue"
+ ```Websockets Work in progress because of SOMLDER, DOM libraries dependency issue```
  
